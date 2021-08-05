@@ -1,7 +1,13 @@
 ### Hi there 👋
 <hr>
 <h2>I'm Hugo Fernando </h1>
-- I live in 🇧🇷:
+<ul> 
+   <li>I live in Brazil 😎 🏝️ </li>
+   <li>I take technical course in systems development 💻 </li>
+   <li>Always looking to learn 📚 </li>
+</ul>
+<br>
+<h2>Contact-me:</h2>
 <!--
 **FernandoHugo399/FernandoHugo399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
