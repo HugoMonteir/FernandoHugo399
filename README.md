@@ -3,7 +3,7 @@
 <h2>I'm Hugo Fernando  </h2>
 <ul> 
    <li>I live in Brazil 🏝️ </li>
-   <li>I take technical course in systems development 💻 </li>
+   <li>I'm taking technical course in systems development 💻 </li>
    <li>Always looking to learn 📚 </li>
 </ul>
 <h2>Contact-me:</h2>
