@@ -14,7 +14,7 @@
 <img align="center" alt="hugo-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
 
-<a href="https://t.me/joinchat/RBZ4kJuruiFmZmVh" target="_blank">
+<a href="https://t.me/fernandohugo399" target="_blank">
 <img align="center" alt="hugo-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" style="max-width:100%;">
 </a>
 <!--
