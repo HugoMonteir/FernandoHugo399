@@ -31,7 +31,7 @@
 <h2>Learning</h2>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40" style="max-width:100%;"></img>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" alt="Jquery" width="40" height="40" style="max-width:100%;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" alt="JQuery" width="40" height="40" style="max-width:100%;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width:100%;"></img>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
 </div>
