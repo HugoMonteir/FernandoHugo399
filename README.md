@@ -29,7 +29,8 @@
 <h2>Tools</h2>
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="git" width="40" height="40" style="max-width:100%;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg alt="Figma" width="40" height="40" style="max-width:100%;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40" style="max-width:100%;"/>
 </div>   
 <h2>Learning</h2>
 <div>
