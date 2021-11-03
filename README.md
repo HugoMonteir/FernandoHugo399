@@ -6,6 +6,7 @@
    <li>I'm taking technical course in systems development💻</li>
    <li>Always looking to learn📚</li>
 </ul>
+
 <h2>Contact-me:</h2>
 <div>
    <a href="https://www.linkedin.com/in/hugo-fernando-931154219/" target="_blank">
@@ -18,6 +19,7 @@
       <img align="center" alt="hugo-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" style="max-width:100%;">
    </a>
 </div>
+
 <h2>Technologies</h2>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40" style="max-width:100%;">
@@ -31,13 +33,15 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="max-width:100%;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongo" width="40" height="40" style="max-width:100%;">
 </div>
+
 <h2>Tools</h2>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width:100%;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="max-width:100%;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40" style="max-width:100%;">
-</div>   
+</div> 
+
 <h2>Learning</h2>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width:100%;">
