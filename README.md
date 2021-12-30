@@ -10,13 +10,13 @@
 <h2>Contact-me:</h2>
 <div>
    <a href="https://www.linkedin.com/in/hugo-fernando-931154219/" target="_blank">
-      <img align="center" alt="hugo-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+      <img align="center" alt="hugo-linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
    <a href="https://www.instagram.com/fernandohugo76/" target="_blank">
-      <img align="center" alt="hugo-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+      <img align="center" alt="hugo-instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
    <a href="https://t.me/fernandohugo399" target="_blank">
-      <img align="center" alt="hugo-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" style="max-width:100%;">
+      <img align="center" alt="hugo-telegram"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
    </a>
 </div>
 
