@@ -37,17 +37,17 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="ExpressJS">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40" style="max-width:100%;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40" style="max-width:100%;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="handlebars" width="40" height="40" style="max-width:100%;">
+   <img src="https://img.shields.io/badge/socket.io-000?style=for-the-badge&logo=socket.io&logoColor=white" alt="socket.io">
+   <img src="https://img.shields.io/badge/sequelize-03AAE8?style=for-the-badge&logo=sequelize&logoColor=white" alt="sequelize">
+   <img src="" alt="handlebars" width="40" height="40" style="max-width:100%;">
  </p>
 
 <h2 align="center">Tools</h2>
 <p align="center">
    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="git">
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="max-width:100%;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40" style="max-width:100%;">
+   <img src="https://img.shields.io/badge/figma-ea4c1d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+   <img src="https://img.shields.io/badge/trello-006eb6?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
 </p> 
 
 <h2 align="center">Learning</h2>
