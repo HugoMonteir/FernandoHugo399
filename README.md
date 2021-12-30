@@ -32,7 +32,7 @@
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
 </p>
 
-<h2 align="center">Frameworks and Libraries</h2>
+<h2 align="center">Frameworks and Libraries:</h2>
 <p align="center">
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
@@ -43,7 +43,7 @@
    <img src="https://img.shields.io/badge/passport-323330?style=for-the-badge&logo=passport" alt="passport">
  </p>
 
-<h2 align="center">Tools</h2>
+<h2 align="center">Tools:</h2>
 <p align="center">
    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="git">
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
@@ -51,7 +51,7 @@
    <img src="https://img.shields.io/badge/trello-006eb6?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
 </p> 
 
-<h2 align="center">Learning</h2>
+<h2 align="center">Learning:</h2>
 <p align="center">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
