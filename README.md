@@ -39,6 +39,7 @@
    <img src="https://img.shields.io/badge/socket.io-000?style=for-the-badge&logo=socket.io&logoColor=white" alt="socket.io">
    <img src="https://img.shields.io/badge/handlebars-000?style=for-the-badge&logo=handlebars.js&logoColor=white" alt="handlebars">
    <img src="https://img.shields.io/badge/sequelize-03AAE8?style=for-the-badge&logo=sequelize&logoColor=white" alt="sequelize">
+   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="json-web-token">
    <img src="https://img.shields.io/badge/passport-black?style=for-the-badge&logo=passport" alt="passport">
  </p>
