@@ -35,8 +35,8 @@
 <h2 align="center">Frameworks and Libraries:</h2>
 <p align="center">
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=" alt="Chart.js">
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
    <img src="https://img.shields.io/badge/socket.io-000?style=for-the-badge&logo=socket.io&logoColor=white" alt="socket.io">
    <img src="https://img.shields.io/badge/handlebars-000?style=for-the-badge&logo=handlebars.js&logoColor=white" alt="handlebars">
    <img src="https://img.shields.io/badge/sequelize-03AAE8?style=for-the-badge&logo=sequelize&logoColor=white" alt="sequelize">
