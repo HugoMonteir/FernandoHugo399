@@ -57,7 +57,6 @@
 <h2 align="center">Learning:</h2>
 <p align="center">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
-   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router">
    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native">
    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF" alt="redux">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=644D9F&logo=Material+Design&logoColor=FFFFFF&label=" alt="Material">
