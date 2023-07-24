@@ -2,8 +2,8 @@
 <hr>
 <h2>I'm Hugo Fernando</h2>
 <ul> 
-   <li>I live in Brazil🏝️</li>
    <li>Technical in systems development💻</li>
+   <li>Doing a bachelor's degree in commercial software engineering</li>
    <li>Always looking to learn📚</li>
 </ul>
 <br>
