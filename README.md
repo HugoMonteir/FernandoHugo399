@@ -34,6 +34,7 @@
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=" alt="Firebase">
    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services">
    <img src="https://img.shields.io/badge/Google_Cloud_Storage-2CA5E0?style=for-the-badge&logo=google-cloud-storage&logoColor=white" alt="Amazon Web Services">
+   <img src="https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white" alt="Amazon Web Services">
 </p>
 
 <h2 align="center">Frameworks and Libraries:</h2>
