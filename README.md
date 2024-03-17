@@ -43,6 +43,7 @@
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ionic&color=3880FF&logo=Ionic&logoColor=FFFFFF&label=" alt="Ionic">
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=" alt="Chart.js">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=" alt="Spring Boot">
    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
  </p>
@@ -53,6 +54,8 @@
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
    <img src="https://img.shields.io/badge/figma-ea4c1d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
    <img src="https://img.shields.io/badge/trello-006eb6?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=7C3AED&logo=Obsidian&logoColor=FFFFFF&label=" alt="Obsidian">
    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DataGrip&color=000000&logo=DataGrip&logoColor=FFFFFF&label=" alt="DataGrip IDE">
 </p> 
