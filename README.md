@@ -9,7 +9,7 @@
 <br>
 <h2 align="center">Contact-me:</h2>
 <p align="center">
-   <a href="https://www.linkedin.com/in/hugo-fernando-931154219/" target="_blank">
+   <a href="https://www.linkedin.com/in/hugo-monteiro-931154219/" target="_blank">
       <img align="center" alt="hugo-linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
    <a href="https://www.instagram.com/fernandohugo76/" target="_blank">
